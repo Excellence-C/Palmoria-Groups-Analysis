@@ -22,7 +22,7 @@ This dashboard provides a comprehensive gender-based analysis of employee distri
 - Number of Employees: The total number of employees in the organization is **874**.                                            
 - Total Salary Paid: Aggregate salary disbursed to employees is** ₦70M**   
 - Average Salary by Gender: Average salary per employee across all genders is **₦73.7K**
-- Employees Below Minimum Salary: A total of** 654** employees earn below the minimum salary threshold (90, 000).
+- Employees Below Minimum Salary: A total of **654** employees earn below the minimum salary threshold (90, 000).
    - The measure/calculation used to determine this was:
      
 - Salary Count by Department: Sum of salary records categorized by department is 946.
@@ -36,9 +36,9 @@ Male employees slightly outnumber females in most regions.
 A small portion of the entire population is marked as **N/A**. _This indicates unspecified gender data._
 
 ### Rating Distribution by Gender
-Most employees are rated “Average”, with females leading in count. 
+Most employees are rated **“Average**”, with females leading in count. 
 
-Very few employees are rated “Very Poor” or “Not Rated”.
+Very few employees are rated “**Very Poor**” or “**Not Rated**”.
 
 Undisclosed Gender N/A still appears in very low portion which indicates that not a large number of the total employees did not disclose their gender and so this information doesn’t really affect the analysis as quite a majority of employees’ data can be analysed, to determine an outcome.
 
@@ -49,19 +49,19 @@ This shows how many employee names fall into each rating level and gender. Reinf
 
 **| Region | Female     | Male       | N/A        |**
 
-| Lagos    | ₦74,163.47 | ₦76,680.65 | ₦86,860    |
+|**Lagos**   | ₦74,163.47 | ₦76,680.65 | ₦86,860    |
 
-| Abuja    | ₦70,452.05 | ₦73,254.55 | ₦73,378.89 |
+| **Abuja**    | ₦70,452.05 | ₦73,254.55 | ₦73,378.89 |
 
-| Kaduna   | ₦72,297.58 | ₦74,849.95 | ₦78,642.86 |
+| **Kaduna**   | ₦72,297.58 | ₦74,849.95 | ₦78,642.86 |
 
 Males consistently earn more than females across all regions. Lagos has the highest pay gap.
 
 The employees with undisclosed gender have unusually high salaries, which may indicate data quality issues or special cases.
 
 ### Total Bonus Allocation: 
-- Annual Bonus:  ₦2.20M
-- Total Pay (Salary + Bonus): ₦71.92M
+- Annual Bonus:  ₦**2.20M**
+- Total Pay (Salary + Bonus): **₦71.92M**
   - _Bonuses are likely awarded based on performance ratings._
     
 ### Salary Count by Department and Region
@@ -79,11 +79,11 @@ This Reflects how salary bands are distributed across regions.
 ### Count of Name by Gender
 - A gender split of the employees:
   
- - **Female: 441
+ - **Female: 441**
 
-    Male: 405
+    **Male: 405**
    
-    N/A: 28**
+    **N/A: 28**
    
 This confirms a slight female majority in the organization.
 
