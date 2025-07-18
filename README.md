@@ -1,10 +1,13 @@
-# HR Analysis
+[Palmoria Group emp-data - Copy.csv](https://github.com/user-attachments/files/21323167/Palmoria.Group.emp-data.-.Copy.csv)[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21323110/Palmoria.Group.emp-data.csv)# HR Analysis
 ## Project Topic: Palmoria Groups Gender Analysis 
 ## Brief 
 The Palmoria Group, a manufacturing company based in Nigeria, was embroiled in issues bordering on gender inequality in its 3 regions. I have been recruited as an HR Analytics expert to analyse the company’sHR data and come up with recommendations for management’s attention. This Power BI dashboard project visualizes gender-based employee insights within Palmoria Groups. It includes regional and departmental breakdowns of salaries, bonuses, performance ratings, and gender distribution. The dashboard highlights key findings such as gender pay gaps, regional disparities, and performance trends, aiding decision-making toward diversity and inclusion.
 
 ## Data Source
--Excel.CSV 
+-Excel.CSV [Download clean Dataset]([Uploading Palmoria Group emp-data - Copy.csv…]
+) [Download Bonus Dataset]([Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21323157/Palmoria.Group.Bonus.Rules.xlsx)
+
+
   - Dataset: Employee data with demographics, salaries, ratings
 ## Tools used:
  - Excel: For initial data cleaning.
