@@ -78,13 +78,17 @@ This Reflects how salary bands are distributed across regions.
 
 ### Count of Name by Gender
 - A gender split of the employees:
- -** Female: 441
- - Male: 405
- - N/A: 28**
+  
+ - **Female: 441
+
+    Male: 405
+   
+    N/A: 28**
+   
 This confirms a slight female majority in the organization.
 
 ### Slicers
-Interactive slicers are available for: ** Gender, Department, Region.** Allowing for filtering through the data set and more interaction with the data set
+Interactive slicers are available for: **Gender, Department, Region.** Allowing for filtering through the data set and more interaction with the data set
 
 ## Recommendations
  1. Address Gender Pay Gaps – Males earn consistently more than females even though there is a majority of female employees in the company. Equity should be evaluated.
