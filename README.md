@@ -1,5 +1,7 @@
 # HR Analysis
+
 ## Project Topic: Palmoria Groups Gender Analysis 
+
 ## Brief 
 The Palmoria Group, a manufacturing company based in Nigeria, was embroiled in issues bordering on gender inequality in its 3 regions. I have been recruited as an HR Analytics expert to analyse the company’sHR data and come up with recommendations for management’s attention. This Power BI dashboard project visualizes gender-based employee insights within Palmoria Groups. It includes regional and departmental breakdowns of salaries, bonuses, performance ratings, and gender distribution. The dashboard highlights key findings such as gender pay gaps, regional disparities, and performance trends, aiding decision-making toward diversity and inclusion.
 
@@ -9,8 +11,8 @@ The Palmoria Group, a manufacturing company based in Nigeria, was embroiled in i
    
  - [Download Bonus Dataset]([Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21323157/Palmoria.Group.Bonus.Rules.xlsx)
 
-
-  - Dataset: Employee data with demographics, salaries, ratings
+- Dataset: Employee data with demographics, salaries, ratings
+  
 ## Tools used:
 - **Power BI**: Visualization and dashboard creation.
 - **Microsoft Excel**: Data cleaning and preprocessing.
@@ -38,11 +40,22 @@ Palmoria-Gender-Analysis/
 
 ```
 
+## Dataset Fields 
+- `Employee Name`
+- `Gender`
+- `Region`
+- `Department`
+- `Salary`
+- `Performance Rating`
+- `Bonus`
+- `Minimum Salary Check`
+
+
 ## Data Summary & Insights
 This dashboard provides a comprehensive gender-based analysis of employee distribution, salary structure, performance ratings, and bonus allocation across departments and regions within Palmoria Groups. 
 
 View interactive visuals and insights in the full dashboard screenshots provided below:
-
+![palmorial visualisation1](https://github.com/user-attachments/assets/67bd7111-45ea-439b-9c6d-84c0399b811a)
 
 
 ### Top-Level Metrics
@@ -84,8 +97,7 @@ This shows how many employee names fall into each rating level and gender. Reinf
 
 Males consistently earn more than females across all regions. Lagos has the highest pay gap.
 
-The employees with undisclosed gender have unusually high salaries, which may indicate data quality issues or special cases like
- data anomalies or executive roles with missing demographics.
+The employees with undisclosed gender have unusually high salaries, which may indicate data quality issues or special cases.
 
 ```
 Gender Pay Gap = 
@@ -133,12 +145,9 @@ intentionally didn’t put in their genders. This should be looked in to by the 
  3. Revisit Minimum Salary Policies – Over ‘650 employees’ earn below the expected minimum—this should be investigated.
  4. Performance Review Culture – Many employees rated “Average”—could signal lack of differentiation or robust evaluation methods.
 
-    
 ## Author
 
 **Excellence-C**  
 _Data Analyst_  
 [GitHub Profile](https://github.com/Excellence-c)  
 [LinkedIn Profile](#)
-
-
