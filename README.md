@@ -48,6 +48,7 @@ This shows how many employee names fall into each rating level and gender. Reinf
 ### Regional Gender Pay Gap 
 
 **| Region | Female     | Male       | N/A        |**
+
 | Lagos    | ₦74,163.47 | ₦76,680.65 | ₦86,860    |
 
 | Abuja    | ₦70,452.05 | ₦73,254.55 | ₦73,378.89 |
@@ -62,17 +63,17 @@ The employees with undisclosed gender have unusually high salaries, which may in
 - Annual Bonus:  ₦2.20M
 - Total Pay (Salary + Bonus): ₦71.92M
   - _Bonuses are likely awarded based on performance ratings._
-
+    
 ### Salary Count by Department and Region
 - ‘Product Management’, ‘Legal’, ‘Human Resources’, and ‘Business Development’ show the highest salary counts.
 - ‘Kaduna’ dominates in salary distribution, followed by ‘Abuja’, then ‘Lagos’.
-- 
+ 
 ### Pay Band Distribution
 This Reflects how salary bands are distributed across regions.
  - Kaduna employees appear to have the most entries in upper salary bands. _Regional imbalance may signal uneven compensation practices._
 
 ### Total Company Bonus by Region
-Visualized in a “donut chart”. 
+  This is Visualized in a “**donut chart**”. 
 -  Kaduna region again takes the lead in total bonus payout. while Lagos appears to have received the least bonus amount overall.
 
 ### Count of Name by Gender
