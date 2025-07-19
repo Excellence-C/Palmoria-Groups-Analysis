@@ -64,6 +64,8 @@ View interactive visuals and insights in the full dashboard screenshots provided
 - Average Salary by Gender: Average salary per employee across all genders is **₦73.7K**
 - Employees Below Minimum Salary: A total of **654** employees earn below the minimum salary threshold (90, 000).
    - The measure/calculation used to determine this was:
+     ```Below minimum in salary = COUNTX(FILTER('Merge1','Merge1'[Salary]<90000),Merge1[Salary] )
+     ```
      
 - Salary Count by Department: Sum of salary records categorized by department is 946.
 Measure used to determine this:
@@ -131,7 +133,7 @@ This Reflects how salary bands are distributed across regions.
 
     **Male: 405**
    
-    **N/A: 28**
+    **N/A: 40**
    
 This confirms a slight female majority in the organization.
 
@@ -150,4 +152,4 @@ intentionally didn’t put in their genders. This should be looked in to by the 
 **Excellence-C**  
 _Data Analyst_  
 [GitHub Profile](https://github.com/Excellence-c)  
-[LinkedIn Profile](#)
+[LinkedIn Profile](https://www.linkedin.com/in/excellence-c-14b784267?trk=contact-info)
