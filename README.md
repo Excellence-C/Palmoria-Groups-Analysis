@@ -68,7 +68,6 @@ View interactive visuals and insights in the full dashboard screenshots provided
      ```
      
 - Salary Count by Department: Sum of salary records categorized by department is 946.
-Measure used to determine this:
 
 ### Gender Distribution by Region
 **Kaduna, Abuja, Lagos** regions analyzed.
